@@ -16,7 +16,7 @@
 <ul>
   <li>Smooth scroll for each section</li>
   <li>Tabbed component</li>
-  <li>Dynamic changes by hovering the mouse over each section</li>
+  <li>Dynamic changes by hovering the mouse over each section nav link</li>
   <li>Sticky navigation</li>
   <li>Understanding and using the Observer API</li>
   <li>Lazy loading images</li>
