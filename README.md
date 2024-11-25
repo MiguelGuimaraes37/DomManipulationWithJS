@@ -23,6 +23,13 @@
   <li>A slider</li>
 </ul>
 
+BINDS:
+
+<ul>
+  <li>⬅️ -> Move slider left;</li>
+  <li>➡️ -> Move slider right</li>
+</ul>
+
 Site View:
 
 ![image](https://github.com/user-attachments/assets/a013d061-62b6-4fd3-b710-6d3fe7953d8f)
